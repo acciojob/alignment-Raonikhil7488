@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+  table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        table.middle {
+            margin: auto;
+           
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 1px;
+        
+            
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        .green {
+            background-color: green;
+            color: white;
+            
+        }
+
+        .blue {
+            background-color: blue;
+            color: white;
+        }
+
+        h1 {
+            text-align: center;
+        }
